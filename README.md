@@ -2,8 +2,20 @@
 # Social App
 ### An application that the user can add friends, talk to them and share opinions in the form of an posts.
 
-## Implementation:
+## Featues:
 - User Can Add Posts
 - intract with posts
 - Chat With Friends
 - and discover other features
+
+## Implementation:
+- Bloc
+- cloud_firestore
+- firebase_auth
+- firebase_messaging
+- firebase_storage
+- image_picker
+- intl
+- shared_preferences
+
+
